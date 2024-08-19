@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Employee__c</fullName>
+    <description>Wipro Limited is a leading global information technology, consulting, and business process services company headquartered in Bengaluru, India. Established in 1945, Wipro offers a comprehensive range of services including IT solutions, cloud computing, data analytics, and digital transformation. With a strong presence in over 50 countries, Wipro is known for its commitment to innovation, sustainability, and excellence in delivering client-centric solutions. The company focuses on helping organizations navigate digital disruptions and achieve their business objectives through technology and industry expertise.</description>
+    <label>Wipro_Employee</label>
+    <length>32768</length>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>
